@@ -17,3 +17,10 @@
 - Библиотека [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) для интеграции с Telegram.
 - OpenWeatherMap API для получения данных о погоде.
 - Библиотека `requests` для выполнения HTTP-запросов.
+
+## Как запустить проект
+
+1. **Клонировать репозиторий:**
+
+   ```bash
+   git clone https://github.com/yourusername/weather-telegram-bot.git
