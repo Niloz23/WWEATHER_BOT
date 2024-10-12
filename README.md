@@ -1,6 +1,6 @@
 # Telegram Weather Bot
 
-Вот пример содержимого для файла README.md, который можно использовать для вашего проекта на GitHub:
+
 
 Telegram Weather Bot
 Описание проекта
