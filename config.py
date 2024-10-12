@@ -1,0 +1,5 @@
+TOKEN = '7873902757:AAEDLrcixV8lHB8zmp7Yqh7lhlp81coH8Wo'
+
+OWM_API_KEY = '042652b3cd65089ae8a5cb6a295bf4fd'
+
+
